@@ -20,7 +20,7 @@
     "electron": "^2.0.2",
     "jquery": "^3.4.1",
     "jquery-ui": "^1.12.1",
-    "xlsx": "^0.13.1"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "electron-packager": "^12.1.0"
