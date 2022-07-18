@@ -19,7 +19,7 @@
   "dependencies": {
     "electron": "^2.0.2",
     "jquery": "^3.4.1",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.2",
     "xlsx": "^0.13.1"
   },
   "devDependencies": {
